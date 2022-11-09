@@ -1,0 +1,26 @@
+.mt-n1 {
+    margin-top: 20rem !important;
+  }
+
+  .mt-n2 {
+    margin-top: 0rem !important;
+  }
+
+
+
+body {
+  background-image: url(maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+  .bg-success {
+    --bs-bg-opacity: 697496;
+    background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+  }
+  
